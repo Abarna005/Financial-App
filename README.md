@@ -2,7 +2,7 @@
 
 ## I was attached to view some UI here web and Mobile Responsive.✨
 
-### This project tech used [Tailwind.css] fully with responsive.
+### This project tech used [Tailwind.css,Javascript] fully with responsive.
 
 
 
